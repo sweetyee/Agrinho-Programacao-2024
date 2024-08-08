@@ -49,7 +49,7 @@ Desenvolvi este site como uma forma de levar conhecimento para outras pessoas, e
  <img align="left" alt="imagem do site desenvolvido" src="./img/Site.png" width="500">
 </div>
 
-<br><br>
+<br><br><br><br><br><br>
 
 <p align="center">🏆<strong>Todo tipo de conhecimento é bem-vindo!</strong>🏆</p>
 
