@@ -49,7 +49,7 @@
 
 Desenvolvi este site como uma forma de levar conhecimento para outras pessoas, enquanto aprimoro minhas habilidades em HTML e CSS. Nele, utilizei os cohecimentos que venho aprendendo, como responsividade, mobile first e inclusão de textos alternativos para acessibilidade. O site foi criado com o propósito de contribuir com o projeto agrinho/2024 e levar conhecimento sobre a agricultura familiar para o público.
 
- <img align="left" alt="imagem do site desenvolvido" src="./img/Site.png" width="100">
+ <img align="left" alt="imagem do site desenvolvido" src="./img/Site.png" width="500">
 
 
 
