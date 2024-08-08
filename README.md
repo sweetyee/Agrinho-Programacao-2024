@@ -27,7 +27,7 @@
   </p>
 </div>
 
-<br>
+<br><br><br><br>
 
 <!--Sessão contendo as ferramentas e tecnologias que mais utilizo até o momento-->
 <div>
@@ -39,7 +39,7 @@
  
 </div>
 
-<br>
+<br><br><br><br><br>
 
 ## Detalhes do projeto
 
