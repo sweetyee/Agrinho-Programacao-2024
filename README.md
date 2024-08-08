@@ -27,7 +27,7 @@
   </p>
 </div>
 
-<br><br><br><br>
+<br>
 
 <!--Sessão contendo as ferramentas e tecnologias que mais utilizo até o momento-->
 <div>
@@ -39,13 +39,15 @@
  
 </div>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br>
 
----
 
 <p align="center">🏆<strong>Todo tipo de conhecimento é bem-vindo!</strong>🏆</p>
 
 
+## Detalhes do projeto
+
+Desenvolvi este site como uma forma de levar conhecimento para outras pessoas, enquanto aprimoro minhas habilidades em HTML e CSS. Nele, utilizei os cohecimentos que venho aprendendo, como responsividade, mobile first e inclusão de textos alternativos para acessibilidade. O site foi criado com o propósito de contribuir com o projeto agrinho/2024 e levar conhecimento sobre a agricultura familiar para o público.
 
 
 
