@@ -272,6 +272,9 @@ a {
     padding-top: 56.25%; /* 16:9 Aspect Ratio */
     height: 0;
     overflow: hidden;
+    border-radius: 10px; /* Bordas arredondadas */
+    border: 3px solid #57A663; /* Borda verde */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra opcional para um efeito adicional */
 }
 .map-container iframe {
     position: absolute;
