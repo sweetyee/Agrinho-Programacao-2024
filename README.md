@@ -30,7 +30,7 @@
  
 </div>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ## Detalhes do projeto
 
@@ -40,7 +40,7 @@ Desenvolvi este site como uma forma de levar conhecimento para outras pessoas, e
  <img align="left" alt="imagem do site desenvolvido" src="./img/site.png" width="500">
 </div>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ---
 
