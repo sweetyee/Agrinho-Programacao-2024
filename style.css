@@ -12,6 +12,11 @@
     box-sizing: border-box;
 }
 
+.link-verde {
+    color: #4CAF50;
+}
+
+
 body {
     font-family: var(--fonte-principal);
     background-color: var(--bege);
