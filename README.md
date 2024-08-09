@@ -12,7 +12,7 @@
   <h2>Conecte-se comigo:</h2>
 
   <p>
-    <a href="camili.aquino@escola.pr.gov.br">
+    <a href="mailto:camili.aquino@escola.pr.gov.br">
       <img align="left" alt="logo email" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="100">
     </a>
   </p>
