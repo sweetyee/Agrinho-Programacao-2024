@@ -42,7 +42,9 @@ Desenvolvi este site como uma forma de levar conhecimento para outras pessoas, e
 
 <br><br><br><br><br><br>
 
-<p>🏆<strong>Todo tipo de conhecimento é bem-vindo!</strong>🏆</p>
+---
+
+<p align="center">🏆<strong>Eu nunca perco! Eu ganho ou aprendo!</strong>🏆</p>
 
 
 
