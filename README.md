@@ -7,15 +7,6 @@
   </em>
 </p>
 
-<!--Sessão de Projetos e Cursos que já foram concluídos pela Alura-->
-<h2>Conheça alguns projetos e cursos que ja concluí na Alura:</h2>
-
-<a href="https://cursos.alura.com.br/user/">
-  <img alt="logo alura" src="https://www.alura.com.br/assets/img/alura-share.1720710817.png"  width="150" heigth="100">
-</a>
-
-<br>
-
 <!--Sessão com informações para contato contendo link para E-mail-->
 <div>
   <h2>Conecte-se comigo:</h2>
